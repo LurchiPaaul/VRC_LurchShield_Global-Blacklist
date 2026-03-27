@@ -1,0 +1,1 @@
+# VRC_LurchShield_Global-Blacklist
